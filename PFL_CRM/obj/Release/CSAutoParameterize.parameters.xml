@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="PFLConn-Web.config Connection String" description="PFLConn Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL8004.site4now.net;Initial Catalog=db_a95114_dbpflcrm;User Id=db_a95114_dbpflcrm_admin;Password=Letstry1234pfl;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Personal\ Projects\\PFL\ Agency\ Projects\\E\ Drive\\PFL_CRM\\PFL_CRM\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PFLConn']/@connectionString" />
+  </parameter>
+</parameters>
